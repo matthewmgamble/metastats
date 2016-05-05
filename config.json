@@ -1,0 +1,11 @@
+{
+  "dbServer": "META_CFS_IP",
+  "dbUser": "statsread",
+  "dbPass": "STASREADPASSWORD"
+  "dbName": "ems_stats_db",
+  "logDir": "/tmp",
+  "logFileName": "metastats.log",
+  "dbSSL": false,
+  "debug": true,
+  "listenPort": 8080
+}
