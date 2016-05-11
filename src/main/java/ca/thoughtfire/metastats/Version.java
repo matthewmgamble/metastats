@@ -30,6 +30,7 @@ package ca.thoughtfire.metastats;
 public class Version {
 
 	/*
+        0.1.1 - Bug fixes
         0.1.0 - Inital public release
         0.0.1 - Inital Release
     */
@@ -37,7 +38,7 @@ public class Version {
 
 	}
 
-	private final String buildNumber = "0.1.0";
+	private final String buildNumber = "0.1.1";
 	private final String buildName = "beta release";
 	private final String author = "Matthew M. Gamble";
 
